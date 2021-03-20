@@ -1,2 +1,2 @@
-Learn Git
-Git is powerful
+Learn the Git
+Git powerful
